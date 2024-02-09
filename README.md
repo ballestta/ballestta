@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-- 👨‍💻 Desarrollador de software
+- 👨‍💻 Desarrollador de Web y Software
 - 🌐 Amante de la tecnología y la innovación
 - 📸 Entusiasta de la fotografía
 - 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)
