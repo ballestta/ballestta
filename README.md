@@ -20,7 +20,7 @@
 ## Proyectos Destacados
 
 - 🌐 Cafe Amaretto: Web para una cafetería creada durante el curso de mis estudios con HTML, CSS y JS.
-- 🚀 Weather Web: Aplicación web donde puedes ingresar una ciudad y te devuelve la temperatura local, el viento y su humedad creada con HTML y CSS.
+- 🚀 Weather Web: Aplicación web donde puedes ingresar una ciudad y te devuelve la temperatura local, el viento y su humedad creada con HTML, CSS y JS.
 - 💻 Sellify: Plataforma web para la creación de páginas propias para negocios donde pueden subir sus tiendas, donde pueden crear productos, categorías y demás. Este tiene su propio panel administrativo donde puedes crear todas estas funcionalidades. Creado con HTML, CSS, JavaScript, React, Node.js
 - 📱 Calculadora: Completamente funcional desarrollada con Java.
 
